@@ -16,4 +16,4 @@
 
 请注意：
 
-C++那部分老师讲的已经过时，被C++的标准指定组织淘汰，已经无法在正确实现的C++编译器上运行，详情请访问[这里](http://stackoverflow.com/questions/13049978/fatal-error-iostream-h-no-such-file-or-directory)。因此，请使用C语言进行开发。
+C++那部分老师讲的已经过时，被C++的标准指定组织淘汰，已经无法在正确实现的C++编译器上运行，详情请访问[这里](http://stackoverflow.com/questions/13049978/fatal-error-iostream-h-no-such-file-or-directory)。因此，请使用[此模版](http://ideone.com/OkzYmW)进行开发。 根据C++标准，::main函数必须返回int，暂时我还没有想到什么方法解决。
